@@ -1,0 +1,15 @@
+A:\Workspace\DigitalInovation\bin\Debug\net6.0\DigitalInovation.exe
+A:\Workspace\DigitalInovation\bin\Debug\net6.0\DigitalInovation.deps.json
+A:\Workspace\DigitalInovation\bin\Debug\net6.0\DigitalInovation.runtimeconfig.json
+A:\Workspace\DigitalInovation\bin\Debug\net6.0\DigitalInovation.dll
+A:\Workspace\DigitalInovation\bin\Debug\net6.0\DigitalInovation.pdb
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\DigitalInovation.csproj.AssemblyReference.cache
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\DigitalInovation.GeneratedMSBuildEditorConfig.editorconfig
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\DigitalInovation.AssemblyInfoInputs.cache
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\DigitalInovation.AssemblyInfo.cs
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\DigitalInovation.csproj.CoreCompileInputs.cache
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\DigitalInovation.dll
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\refint\DigitalInovation.dll
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\DigitalInovation.pdb
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\DigitalInovation.genruntimeconfig.cache
+A:\Workspace\DigitalInovation\obj\Debug\net6.0\ref\DigitalInovation.dll
